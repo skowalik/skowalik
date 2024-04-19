@@ -25,8 +25,6 @@ I'm a Generative AI engineer and architect specializing in the integration of an
 ### ⚡ Fun fact:
 - Aside from my passion for AI, I love snowboarding and exploring various music genres.
 
-![SebastianKowalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
-
 ### 🎶 Interests
 - As a music enthusiast, I am interested in exploring how generative AI can revolutionize music production and composition, while keeping the human element.
 - Current favorite Artist is Marsh:  https://www.youtube.com/watch?v=McSbXxYEwSg
