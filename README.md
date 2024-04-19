@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian Kowalik 👋
 
-I'm a Data & AI engineer and architect specializing in the integration of analytics, visualization, and applied AI with a keen focus on generative AI technologies. My expertise extends to DevOps and pipeline orchestration, facilitating sophisticated generative models and AI-driven solutions with automation.
+I'm a Generative AI engineer and architect specializing in the integration of analytics, visualization, and applied AI. My expertise extends to DevOps and pipeline orchestration, facilitating sophisticated generative models and AI-driven solutions with automation.
 
 ### 🔭 I’m currently working on
 - Using generative models that support State and Local Government use cases.
