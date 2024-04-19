@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi, I'm Sebastian Kowalik 👋
 
-<!--
-**skowalik/skowalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & AI engineer and architect specializing in the integration of analytics, visualization, and applied AI with a keen focus on generative AI technologies. My expertise extends to DevOps and pipeline orchestration, facilitating sophisticated generative models and AI-driven solutions with automation.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- Using generative models that support State and Local Government use cases.
+- Automating data processing with Gen AI
+- Data retrieval with Gen AI RAG patterns
+- Enhancing AI pipelines for efficient training and deployment of generative models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m constantly learning
+- Cutting-edge techniques in generative adversarial networks (GANs) and their applications in various industries.
+- Scalable infrastructure for deploying generative AI models on the cloud.
+
+### I’m looking to collaborate on
+- Projects that push the boundaries of what generative AI can achieve, particularly to make our world a better place.
+- Initiatives that use generative AI to solve real-world problems in innovative ways.
+
+### 🤝 Volunteering
+- Leadership Council Member at Big Brothers Big Sisters, applying data-driven strategies to enhance outreach and impact. [Learn more about my involvement here](https://www.bigsandkids.org).
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/sebastiankowalik)
+
+### ⚡ Fun fact:
+- Aside from my passion for AI, I love snowboarding and exploring various music genres.
+
+![SebastianKowalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
+
+### 🎶 Interests
+- As a music enthusiast, I am interested in exploring how generative AI can revolutionize music production and composition, while keeping the human element.
+- Current favorite Artist is Marsh:  https://www.youtube.com/watch?v=McSbXxYEwSg
