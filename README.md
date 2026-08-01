@@ -25,7 +25,8 @@ I'm a Senior Solution Engineer for Azure Data and AI at Microsoft, specializing 
 
 ### ⚡ Fun fact:
 - Aside from my passion for data and AI, I love snowboarding and exploring various music genres.
-
 ### 🎶 Interests
+
+- [ZPD Evaluator Repo](https://github.com/Atlas-AI-Agency/zero-point-data-public-v2)
 - As a music enthusiast, I am interested in exploring how AI agents can revolutionize music production and composition, while keeping the human element.
 - Current favorite Artist is Marsh: https://www.youtube.com/watch?v=McSbXxYEwSg
